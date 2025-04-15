@@ -1,4 +1,4 @@
-# llmir
+# LLM-IR (llmir)
 
 A standardized intermediate representation for LLM-generated natural language outputs.
 
